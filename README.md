@@ -16,7 +16,7 @@ Alguns links para preparação de ambientes de desenvolvimento dos códigos e in
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Também pode-se ultilizar o Desktop Virtual UFSC acessando o link: https://servicosti.sistemas.ufsc.br/publico/detalhes.xhtml?servico=232
-
+----------------------------------------------------------------------------------------------------------------------------------
 Caso você não queira ou não consiga utilizar o MatLab, alternativas como: SciLab, Octave etc, devem ser suficientes também.
 
 ======>FreeFem++: Plataforma grátuita e fácil para modelagem de Métodos Fínitos. 
