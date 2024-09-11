@@ -12,10 +12,12 @@ Os códigos aqui ultilizados serão na sua grande maioria feitos por Matlab, Phy
 Alguns links para preparação de ambientes de desenvolvimento dos códigos e instalações dessas plataformas serão colocadas logo abaixo:
 
 
-======>MatLab: Pode-se ter acesso ao MatLab de algumas formas, dentre elas seguindo os passos(para alunos UFSC): https://atendimento.ufsc.br/otrs/public.pl?Action=PublicFAQZoom;ItemID=138
+======>MatLab: Pode-se ter acesso ao MatLab de algumas formas, dentre elas seguindo os passos(para alunos UFSC):
+ https://atendimento.ufsc.br/otrs/public.pl?Action=PublicFAQZoom;ItemID=138
 ----------------------------------------------------------------------------------------------------------------------------------
 
-Também pode-se ultilizar o Desktop Virtual UFSC acessando o link: https://servicosti.sistemas.ufsc.br/publico/detalhes.xhtml?servico=232
+Também pode-se ultilizar o Desktop Virtual UFSC acessando o link: 
+https://servicosti.sistemas.ufsc.br/publico/detalhes.xhtml?servico=232
 ----------------------------------------------------------------------------------------------------------------------------------
 Caso você não queira ou não consiga utilizar o MatLab, alternativas como: SciLab, Octave etc, devem ser suficientes também.
 
